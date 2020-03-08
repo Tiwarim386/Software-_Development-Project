@@ -1,8 +1,11 @@
 # Software-_Development-Project
 
 Worked as a Design Manager in a Software development team of 10 people.
+
 Used TSP Process Dashboard.
+
 Added a feature to ensure a better user experience on website of Coding blocks(https://codingblocks.com) which is an online teaching community like coursera having more than 10,000 students.
+
 Successfully created a pull request on their github repository with added feature.
 
 
