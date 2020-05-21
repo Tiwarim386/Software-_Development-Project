@@ -33,3 +33,15 @@ Successfully created a pull request on their github repository with added featur
 
 ## After
 ![after.PNG](after.PNG)
+
+## Team Roles
+ 1.  Team Leader
+ 2.  Design Manager
+ 3.  Implementation Manager
+ 4.  Quality Manager
+ 5.  Testing Manager
+ 6.  Support Manager
+ 7.  Customer Interface Manager
+ 8.  Planning Manager
+ 9.  Process Manager
+ 10. Team Member
