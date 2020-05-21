@@ -1,4 +1,4 @@
-# Software-_Development-Project
+# Software Development Project
 
 Worked as a Design Manager in a Software development team of 10 people.
 
